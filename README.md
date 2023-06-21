@@ -8,10 +8,12 @@
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuktha-reddy121&label=Profile%20views&color=0e75b6&style=flat" alt="yuktha-reddy121" /> </p>
 <h3 >Find me around 🌎:</h3>
-- 🔭 I’m have worked on [Car Price Prediction](https://github.com/Yuktha-reddy121/Car-Price-Prediction)
-- 🌱 I’m currently learning **JavaScript**
-- 💬 Ask me about **Web Development, Python ,Core Java**
-- 📫 How to reach me **yukthasikharasai@gmail.com**
+
+- 🔭 I’m have worked on **Python Development**<br>
+- 🌱 I’m currently learning **JavaScript**<br>
+- 💬 Ask me about **Web Development, Python ,Core Java**<br>
+- 📫 How to reach me **yukthasikharasai@gmail.com**<br>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
