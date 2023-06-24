@@ -1,4 +1,4 @@
-[![MasterHead](https://as1.ftcdn.net/v2/jpg/05/31/11/06/1000_F_531110602_TW2qZp7FpbSyTaFyNOT9MvYXHtTF5OPm.jpg)]
+![MasterHead](https://as1.ftcdn.net/v2/jpg/05/31/11/06/1000_F_531110602_TW2qZp7FpbSyTaFyNOT9MvYXHtTF5OPm.jpg)
 
 <h1 align="center">Hi , I'm Yuktha👋👩🏾‍💻</h1>
 <h3 align="center">A passionate Python developer from India</h3>
