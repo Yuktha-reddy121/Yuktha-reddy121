@@ -3,7 +3,7 @@
 <h1 align="center">Hi , I'm Yuktha👋👩🏾‍💻</h1>
 <h3 align="center">A passionate Python developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://t4.ftcdn.net/jpg/06/01/29/15/240_F_601291561_gZSshy6s6ALh89eso6NGlhvB6zFkA0on.jpg">
-<p>hi, I'm Yuktha Sikhara Sai, a passionate self-taught Python developer and a software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. Some technologies I enjoy working with include Python, Machine Learning and Web Development. i take great care in the experience, architecture, and code quality of the things I build.I am trying to give a strong vision for my developer friends and colleagues which helps them to make their development workflow as much as easy as possible!
+<p>hi, I'm Yuktha Sikhara Sai, a passionate self-taught Python developer and a software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. Some technologies I enjoy working with include Python and Machine Learning . i take great care in the experience, architecture, and code quality of the things I build.I am trying to give a strong vision for my developer friends and colleagues which helps them to make their development workflow as much as easy as possible!
 
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuktha-reddy121&label=Profile%20views&color=0e75b6&style=flat" alt="yuktha-reddy121" /> </p>
