@@ -10,8 +10,8 @@
 <h3 >Find me around 🌎:</h3>
 
 - 🔭 I’m have worked on **Python Development**<br>
-- 🌱 I’m currently learning **JavaScript**<br>
-- 💬 Ask me about **Web Development, Python ,Core Java**<br>
+- 🌱 I’m currently learning **Machine Learning**<br>
+- 💬 Ask me about **Python ,Core Java**<br>
 - 📫 How to reach me **yukthasikharasai@gmail.com**<br>
 
 
