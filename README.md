@@ -1,8 +1,8 @@
-
+[![MasterHead](https://as1.ftcdn.net/v2/jpg/05/31/11/06/1000_F_531110602_TW2qZp7FpbSyTaFyNOT9MvYXHtTF5OPm.jpg)]
 
 <h1 align="center">Hi , I'm Yuktha👋👩🏾‍💻</h1>
 <h3 align="center">A passionate Python developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://as1.ftcdn.net/v2/jpg/05/12/98/08/1000_F_512980829_zVDaFdnYLMCWdJei9rwsKprVEnMTSqrz.jpg">
+<img align="right" alt="Coding" width="400" src="https://t4.ftcdn.net/jpg/06/01/29/15/240_F_601291561_gZSshy6s6ALh89eso6NGlhvB6zFkA0on.jpg">
 <p>hi, I'm Yuktha Sikhara Sai, a passionate self-taught Python developer and a software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. Some technologies I enjoy working with include Python, Machine Learning and Web Development. i take great care in the experience, architecture, and code quality of the things I build.I am trying to give a strong vision for my developer friends and colleagues which helps them to make their development workflow as much as easy as possible!
 
 </p>
