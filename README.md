@@ -34,6 +34,7 @@
     <img src="https://skillicons.dev/icons?i=github,python,javascript,c,java" /><img src="https://skillicons.dev/icons?i=mysql,html,css,vscode,git" /> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
 </div>
 <br><br>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuktha-reddy121&show_icons=true&locale=en&layout=compact" alt="yuktha-reddy121" /></p>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;" />
