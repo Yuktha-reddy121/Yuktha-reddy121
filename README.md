@@ -12,8 +12,8 @@
 - 🔭 I have worked on **Python and Web**<br>
 - 🌱 I’m currently learning **Machine Learning**<br>
 - 💬 Ask me about **Python, Core Java and Web**<br>
-- 📫 How to reach me **yukthasikharasai@gmail.com**<br>
 - 🛡️ I'm curious about **cyber security**<br>
+- 📫 How to reach me **yukthasikharasai@gmail.com**<br>
 
 
 <h3 align="left">Connect with me:</h3>
